@@ -1,0 +1,79 @@
+# Propuesta de Contrato de Fideicomiso "DO Espacial" - Placeholder
+
+## CAPÍTULO I: CONSTITUCIÓN Y PARTES
+
+**Cláusula 1ª: Partes Contratantes**
+*   **Fideicomitente(s):** El Estado Nacional / ANAEDOM / Otros organismos públicos o privados.
+*   **Fiduciario:** (Entidad financiera a ser designada mediante proceso de selección).
+*   **Fideicomisario(s)/Beneficiario(s):** ANAEDOM / Proyectos espaciales específicos / La industria espacial nacional.
+
+**Cláusula 2ª: Denominación y Objeto del Fideicomiso**
+*   **Denominación:** Fideicomiso de Administración y Financiamiento "Desarrollo de Oportunidades Espaciales" (Fideicomiso DO Espacial).
+*   **Objeto Principal:** Administrar recursos para financiar proyectos y programas estratégicos del sector espacial nacional, promover la investigación y desarrollo, y fomentar la industria espacial, de acuerdo con las políticas dictadas por ANAEDOM y los lineamientos del presente contrato.
+
+**Cláusula 3ª: Duración del Fideicomiso**
+*   Plazo determinado (ej. 10, 20, 30 años) o hasta el cumplimiento de un fin específico. Posibilidad de prórroga.
+
+**Cláusula 4ª: Patrimonio Fideicomitido**
+*   Aportes iniciales del Fideicomitente (fondos públicos, activos).
+*   Aportes periódicos (asignaciones presupuestarias, cánones por uso de infraestructura espacial, recupero de inversiones).
+*   Donaciones, legados, y otros fondos de cooperación nacional o internacional.
+*   Rendimientos financieros generados por la administración de los fondos.
+
+## CAPÍTULO II: GOBERNANZA Y ADMINISTRACIÓN
+
+**Cláusula 5ª: Comité Técnico (o Consejo de Inversión)**
+*   **Composición:** Representantes de ANAEDOM (quien lo presidirá), Ministerio de Ciencia y Tecnología, Ministerio de Economía, y posiblemente expertos independientes o del sector privado.
+*   **Funciones:** Definir las políticas de inversión y asignación de recursos, aprobar proyectos a financiar, supervisar la ejecución técnica de los proyectos, proponer modificaciones al contrato de fideicomiso.
+
+**Cláusula 6ª: Obligaciones del Fiduciario**
+*   Administrar el patrimonio fideicomitido con lealtad y diligencia.
+*   Mantener la contabilidad separada de los bienes fideicomitidos.
+*   Rendir cuentas periódicamente al Comité Técnico y al Fideicomitente.
+*   Ejecutar las instrucciones del Comité Técnico en materia de inversión y asignación de fondos.
+*   Defender el patrimonio fideicomitido.
+*   Transferir los fondos a los beneficiarios según las aprobaciones del Comité Técnico.
+
+**Cláusula 7ª: Remuneración del Fiduciario**
+*   Comisión basada en un porcentaje del patrimonio administrado o una tarifa fija, según se acuerde en el proceso de selección.
+
+**Cláusula 8ª: Comité de Vigilancia (o Auditoría Externa)**
+*   **Composición:** Podría ser una firma de auditoría externa de reconocida trayectoria, o un comité con representantes de organismos de control del Estado.
+*   **Funciones:** Fiscalizar la gestión del Fiduciario, auditar los estados financieros del fideicomiso, informar irregularidades.
+
+## CAPÍTULO III: OPERACIÓN FINANCIERA
+
+**Cláusula 9ª: Apertura de Cuentas y Manejo de Fondos**
+*   El Fiduciario abrirá cuentas bancarias específicas a nombre del Fideicomiso DO Espacial.
+*   Se definirán los procedimientos para la recepción de aportes y la realización de desembolsos.
+
+**Cláusula 10ª: Régimen de Inversiones**
+*   Los fondos líquidos del fideicomiso podrán ser invertidos en instrumentos de bajo riesgo y alta liquidez, buscando preservar el capital y obtener rendimientos razonables, según política aprobada por el Comité Técnico.
+
+**Cláusula 11ª: Contabilidad y Reportes**
+*   El Fiduciario llevará la contabilidad del fideicomiso de acuerdo con las normas contables aplicables y presentará informes financieros periódicos (mensuales, trimestrales, anuales) al Comité Técnico y al Fideicomitente.
+
+## CAPÍTULO IV: MODIFICACIÓN Y EXTINCIÓN
+
+**Cláusula 12ª: Modificación del Contrato**
+*   Procedimiento para enmendar el contrato, usualmente con acuerdo del Fideicomitente y el Comité Técnico, y aceptación del Fiduciario.
+
+**Cláusula 13ª: Causales de Extinción**
+*   Cumplimiento del plazo o del objeto.
+*   Decisión del Fideicomitente.
+*   Otras causales legales.
+
+**Cláusula 14ª: Destino de los Bienes Remanentes**
+*   En caso de extinción, los bienes y fondos remanentes se transferirán al Fideicomitente o a quien este designe.
+
+## CAPÍTULO V: LEY APLICABLE Y JURISDICCIÓN
+
+**Cláusula 15ª: Ley Aplicable**
+*   Las leyes de la República [Nombre del País].
+
+**Cláusula 16ª: Resolución de Controversias**
+*   Mecanismos de mediación o arbitraje, o jurisdicción de los tribunales competentes.
+
+---
+Nota: Este es un documento placeholder. Su contenido es una simulación de la estructura y temas típicos de un contrato de fideicomiso. El análisis se basará en esta estructura simulada.
+---

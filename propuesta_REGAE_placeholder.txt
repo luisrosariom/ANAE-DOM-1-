@@ -1,0 +1,48 @@
+# Propuesta de Marco Regulatorio del Sector Aeronáutico y Espacial (REGAE) - Placeholder
+
+## Preámbulo
+Este documento establece el marco regulatorio para las actividades aeronáuticas y espaciales bajo la jurisdicción nacional, con el fin de promover el desarrollo seguro, ordenado y sostenible del sector.
+
+## Título I: Disposiciones Generales
+Capítulo 1: Objeto y Ámbito de Aplicación
+Capítulo 2: Definiciones
+Capítulo 3: Autoridad de Aplicación (ANAEDOM y/u otras entidades)
+
+## Título II: Regulación de Actividades Aeronáuticas
+Capítulo 1: Licencias al Personal Aeronáutico (pilotos, controladores, técnicos)
+Capítulo 2: Certificación de Aeronaves y Componentes
+Capítulo 3: Reglas de Operación de Vuelo
+Capítulo 4: Servicios de Navegación Aérea
+Capítulo 5: Aeródromos y Helipuertos: Certificación y Operación
+Capítulo 6: Seguridad Operacional (Safety Management Systems - SMS)
+Capítulo 7: Seguridad de la Aviación Civil (Aviation Security - AVSEC)
+Capítulo 8: Investigación de Accidentes e Incidentes Aéreos
+
+## Título III: Regulación de Actividades Espaciales
+Capítulo 1: Registro Nacional de Objetos Espaciales
+Capítulo 2: Licencias para el Lanzamiento de Objetos Espaciales
+Capítulo 3: Licencias para la Operación de Satélites y Vehículos Espaciales
+Capítulo 4: Gestión del Espectro Radioeléctrico para Usos Espaciales
+Capítulo 5: Responsabilidad por Daños Causados por Objetos Espaciales
+Capítulo 6: Mitigación de Desechos Espaciales
+Capítulo 7: Transferencia de Tecnología Espacial y Control de Exportaciones
+Capítulo 8: Actividades de Exploración y Explotación de Recursos Espaciales (a futuro)
+
+## Título IV: Gestión del Espacio Aéreo y Tráfico Espacial
+Capítulo 1: Clasificación y Uso del Espacio Aéreo Nacional
+Capítulo 2: Coordinación Cívico-Militar del Espacio Aéreo
+Capítulo 3: Integración de Nuevos Usuarios (drones, vehículos suborbitales)
+Capítulo 4: Medidas para la Gestión del Tráfico Espacial (Space Traffic Management - STM) (a futuro)
+
+## Título V: Infracciones y Sanciones
+Capítulo 1: Tipificación de Infracciones
+Capítulo 2: Procedimiento Sancionatorio
+Capítulo 3: Régimen de Sanciones
+
+## Título VI: Disposiciones Transitorias y Finales
+Capítulo 1: Adecuación de Normativa Existente
+Capítulo 2: Entrada en Vigor
+
+---
+Nota: Este es un documento placeholder y su contenido es una simulación de la estructura y temas típicos de un marco regulatorio aeronáutico y espacial. El análisis se basará en esta estructura simulada.
+---
